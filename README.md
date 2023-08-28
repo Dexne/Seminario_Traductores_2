@@ -7,3 +7,4 @@ Semestre Agosto Diciembre 2023
 - [Tarea1](Que_es_un_analizador_lexico.pdf)
 - [Mini Analizador léxico](Mini_analizador_lexico.py).
 - [Analizador léxico completo](analizador_lexico_completo.cpp)
+- [Analizador sintactico](https://github.com/Dexne/Seminario_Traductores_2/tree/main/Analizador_sintactico)
