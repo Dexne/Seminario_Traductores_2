@@ -8,3 +8,4 @@ Semestre Agosto Diciembre 2023
 - [Mini Analizador léxico](Mini_analizador_lexico.py).
 - [Analizador léxico completo](analizador_lexico_completo.cpp)
 - [Analizador sintactico](https://github.com/Dexne/Seminario_Traductores_2/tree/main/Analizador_sintactico)
+- [Analizador sintactico codigo](https://github.com/Dexne/Seminario_Traductores_2/tree/main/Analizador_sintatico_codigo)
